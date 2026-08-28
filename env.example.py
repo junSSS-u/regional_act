@@ -1,0 +1,2 @@
+BSKY_HANDLE=your_handle.bsky.social
+BSKY_PASSWORD=your_app_password
